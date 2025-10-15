@@ -1,4 +1,4 @@
-# Diabetic Retinopathy detection using CNN
+# Diabetic Retinopathy detection using CNN [ Springer pub: https://link.springer.com/chapter/10.1007/978-981-16-9113-3_60 ]
 This project applies deep learning to detect Diabetic Retinopathy (DR) from retinal fundus images using transfer learning with ResNet50. The model leverages pretrained ImageNet weights to extract high-level visual features from eye images, followed by custom classification layers that categorize the severity of DR across five stages: from No DR to Proliferative DR.
 
 The pipeline includes all key stages of a practical medical imaging workflow:
